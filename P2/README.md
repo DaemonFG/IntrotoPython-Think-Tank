@@ -2,7 +2,7 @@
 
 **- [项目传送门](https://github.com/udacity/cn-python-foundation/tree/master/best%20movie)**
 
-**- [ChromeDriver下载]()**
+**- [ChromeDriver下载](https://github.com/DaemonFG/IntrotoPython-Think-Tank/blob/master/P2/ChromeDriver_Download.md)**
 
 
 ## 项目常见问题目录(project)
