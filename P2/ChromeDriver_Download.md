@@ -2,6 +2,8 @@
 
 **- [传送门](https://github.com/udacity/cn-python-foundation/blob/master/best%20movie/install_chromedriver.md)**
 
+**- [版本说明](https://github.com/DaemonFG/IntrotoPython-Think-Tank/blob/master/P2/chromedriver_notes.txt)**
+
 ## Mac版
 
 **- [点击下载](https://github.com/DaemonFG/IntrotoPython-Think-Tank/raw/master/P2/chromedriver%20for%20mac.7z)**
