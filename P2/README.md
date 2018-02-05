@@ -1,6 +1,6 @@
 ## 项目链接及ChromeDriver下载
 
-**- [项目传送门]**(https://github.com/udacity/cn-python-foundation/tree/master/best%20movie)**
+**- [项目传送门](https://github.com/udacity/cn-python-foundation/tree/master/best%20movie)**
 
 **- [ChromeDriver下载]()**
 
