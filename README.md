@@ -168,5 +168,11 @@ QA已经保存了课程所有文件，可直接在Github下载。
 
 这个智库由[Udacity Python入门纳米学位](https://cn.udacity.com/course/intro-to-python-nanodegree-foundation--nd000-cn-python)课程团队的小伙伴共同发起，合作完成。下面是为项目做出贡献的小伙伴名单，感谢他们为大家做出的贡献。
 
+排名不分高矮胖瘦([持续更新ing]())
 
+- [miumiuLimengzhu](https://github.com/miumiuLimengzhu)
+
+- [willow](https://github.com/wilow89)
+
+- [DaemonFG](https://github.com/DaemonFG)
 
