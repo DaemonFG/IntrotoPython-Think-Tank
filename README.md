@@ -1,4 +1,3 @@
-## !!!待完善
 ## QA基本内容
 
 - 常见非课程问题答疑/提问的正确方法：见本页面；
@@ -164,4 +163,10 @@ QA已经保存了课程所有文件，可直接在Github下载。
 在“我的教室“的设置页面中查看“纳米学位”页面，如下：
 
 ![](https://i.imgur.com/yS2sMtE.png)
+
+## 鸣谢
+
+这个智库由[Udacity Python入门纳米学位](https://cn.udacity.com/course/intro-to-python-nanodegree-foundation--nd000-cn-python)课程团队的小伙伴共同发起，合作完成。下面是为项目做出贡献的小伙伴名单，感谢他们为大家做出的贡献。
+
+
 
