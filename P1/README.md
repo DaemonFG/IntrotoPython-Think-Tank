@@ -1,6 +1,6 @@
-## 项目链接及ChromeDriver下载
+## 有关项目
 
-- [**项目传送门**](https://github.com/udacity/cn-python-foundation/tree/master/investigate%20texts%20and%20calls/ZH)
+- [**项目链接**](https://github.com/udacity/cn-python-foundation/tree/master/investigate%20texts%20and%20calls/ZH)
 
 - [**项目思路直播回看**](https://www.bilibili.com/video/av16717363/)
 - [**项目思路直播回看(番外篇)**](https://www.bilibili.com/video/av16770292/)
