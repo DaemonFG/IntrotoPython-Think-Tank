@@ -1,6 +1,6 @@
 ## 安装教程
 
-**- [传送门](https://github.com/udacity/cn-python-foundation/blob/master/best%20movie/install_chromedriver.md)**
+**- [传送门](http://blog.csdn.net/daemonfg/article/details/78034432)**
 
 **- [版本说明](https://github.com/DaemonFG/IntrotoPython-Think-Tank/blob/master/P2/chromedriver_notes.txt)**
 
