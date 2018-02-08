@@ -170,9 +170,13 @@ QA已经保存了课程所有文件，可直接在Github下载。
 
 排名不分高矮胖瘦🥇🥈🥉([持续更新ing]())
 
-- 💃[miumiuLimengzhu](https://github.com/miumiuLimengzhu)
+- 💃[MiumiuLimengzhu](https://github.com/miumiuLimengzhu)
 
-- 😺[willow](https://github.com/wilow89)
+- 😺[Willow](https://github.com/wilow89)
 
 - 👨‍💻[DaemonFG](https://github.com/DaemonFG)
+
+- 🐱‍👤[Kevin]()
+
+- 🕴[Xander](https://github.com/Einsteinder)
 
