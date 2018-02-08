@@ -5,10 +5,6 @@ for循环的语法格式如下：<br>
 for iterating_var in sequence:<br>
    statements(s)<br>
 
-流程图<br>
-
-![%E5%9B%BE%E7%89%87.png](attachment:%E5%9B%BE%E7%89%87.png)
-
 例子1：传统用法
 
 
@@ -169,7 +165,7 @@ for i in stuff:
 
 
 ```python
-L= (i +1for i in range(10) if i %2)
+L= (i +1 for i in range(10) if i %2)
 
 L1=[]
 for i in L:
